@@ -19,10 +19,10 @@ Sou um estudante de tecnologia apaixonado por criar soluções eficientes.
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=thefuza&show_icons=true&theme=radical&include_all_commits=true" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefuza&layout=compact&theme=radical" />
 </p>
 
