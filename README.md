@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Gabriel Melo! 👋
 
 Sou um estudante de tecnologia apaixonado por criar soluções eficientes.
 
@@ -8,7 +8,7 @@ Sou um estudante de tecnologia apaixonado por criar soluções eficientes.
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-003366?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -25,7 +25,7 @@ Sou um estudante de tecnologia apaixonado por criar soluções eficientes.
 
 ## 📬 Como me encontrar
 
-- **LinkedIn:** [Link para seu perfil]
+- **LinkedIn:** http://www.linkedin.com/in/gabrielscmelo
 - **E-mail:** gabrielscmelo@hotmail.com
 ---
 
