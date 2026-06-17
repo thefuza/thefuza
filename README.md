@@ -4,8 +4,6 @@ Sou um estudante de tecnologia apaixonado por criar soluções eficientes.
 
 ---
 
-## 🛠 Tecnologias que utilizo
-
 ## 🛠 Tecnologias e Ferramentas
 
 <p align="left">
